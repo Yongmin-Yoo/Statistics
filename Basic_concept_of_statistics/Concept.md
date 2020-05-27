@@ -1,4 +1,5 @@
-# Understanding mathematical concepts </br>
+# Understanding mathematical concepts 
+##### By YongminYoo</br>
 
 ### First of all...
 
