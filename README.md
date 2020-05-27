@@ -1,4 +1,4 @@
-# Basic Statistics 
+# Basic Statistics GuideLine
 
 ##### By Yongmin Yoo
 </br>
