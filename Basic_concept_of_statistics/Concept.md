@@ -1,5 +1,5 @@
 # Understanding mathematical concepts 
-##### By YongminYoo</br>
+##### By YongminYoo</br></br>
 
 ### First of all...
 
