@@ -2,7 +2,8 @@
 
 ##### By Yongmin Yoo
 </br>
-<img width="756" alt="스크린샷 2020-05-27 오후 4 13 32" src="https://user-images.githubusercontent.com/59948809/82989589-e7bf3480-a035-11ea-8480-d0498f7382e5.png">
+<img width="800" alt="스크린샷 2020-05-27 오후 4 24 03" src="https://user-images.githubusercontent.com/59948809/82990031-82b80e80-a036-11ea-9529-80e4da84ed19.png">
+
 
 ### 제 포스팅은 Statistics의 전반적인 부분을 아래와 같은 순서로 포스팅합니다.
 * Statistics을 위한 수학적인 Basic Concept</br>
