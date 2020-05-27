@@ -1,8 +1,7 @@
 # Basic Statistics 
 
 ##### By Yongmin Yoo
-##### yooyongmin91@gmail.com
-
+</br></br>
 
 ### 본 포스팅은 Statistics의 전반적인 부분을 아래와 같은 순서로 포스팅합니다.
 *Statistics을 위한 수학적인 기초 개념</br>
