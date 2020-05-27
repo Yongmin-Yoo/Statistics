@@ -8,8 +8,7 @@
 *Regression을 위한 Calculus </br>
 *Regression model </br>
 *Dimension Reduction </br>
-### 위 네가지 부분을 아주 상세하고 꼼꼼하게 Conceptual한 부분과 Code 부분을 나눠서 포스팅합니다. Code부분의 Language는 Python을 이용합니다.
-</br>
+### 위 네가지 부분을 아주 상세하고 꼼꼼하게 Conceptual한 부분과 Code 부분을 나눠서 포스팅합니다. Code부분의 Language는 Python을 이용합니다.</br>
 ### 본 포스팅은
 * Data Scientist 를 목표로 하시는 분</br>
 * Big Data / Data Mining / AI 분야 현업,대학원생들 복습용</br>
